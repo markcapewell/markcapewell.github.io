@@ -82,9 +82,19 @@
   color: black;
 
 }
+
+.CardSection {
+    position: relative;
+    margin: auto;
+    background-color: #ffffff;
+    overflow: hidden;
+    padding: 28px 13px;
+    float: left;
+}
+
 footer  {
   position: relative;
   background-color: #444;
   overflow: hidden;
-  top: 85px;
+  top: 85px
 }
