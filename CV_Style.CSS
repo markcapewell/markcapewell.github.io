@@ -27,6 +27,7 @@
   color: white;
 }
 
+/* main section */
 .Section {
     position: relative;
     margin: auto;
@@ -61,6 +62,7 @@
   font-size: 17px;
 }
 
+/* Social Navigation */
 .SocialNav {
     position: relative;
     background-color: #444;
@@ -83,6 +85,7 @@
 
 }
 
+/* cards (bootstrap) */
 .CardSection {
     position: relative;
     margin: auto;
@@ -92,6 +95,7 @@
     float: left;
 }
 
+/* main section for work */
 .WorkSection {
     position: relative;
     margin: auto;
@@ -128,6 +132,7 @@
   float: left;
 }
 
+/* Main section for education */
 .EdSection {
     position: relative;
     margin: auto;
@@ -164,6 +169,7 @@
   float: right;
 }
 
+/* margin */
 .Margin {
     position: relative;
     margin: auto;
